@@ -21,11 +21,11 @@ The test folder contains tests for the moudule and the rest service with a nice 
 
 # Deploy
 
-Install node 4+.
-Clone the repository.
-npm install
-Launch service: node index.js
-run tests: npm test
+ - Install node 4+.
+ - Clone the repository.
+ - npm install
+ - Launch service: node index.js
+ - run tests: npm test
 
 # Improvements
 
